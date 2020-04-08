@@ -487,7 +487,7 @@
             },
             init() {
                 let rongToken = localStorage.getItem('rongToken');
-                var appkey = this.appkey;
+                var appkey = process.env.VUE_APP_RONGCLOUD_KEY;
                 var token = rongToken;
                 if (!appkey || !token) {
                     this.$dialog({

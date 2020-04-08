@@ -2,7 +2,7 @@
 
 # 基于腾讯融云webSDK开发的一款聊天工具
 
-# 部署：修改 .env.development相应的接口地址 vue.config.js代理地址
+# 部署：修改 .env.development相应的接口地址及融云key vue.config.js代理地址
 
 ## Project setup
 ```

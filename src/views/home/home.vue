@@ -238,7 +238,7 @@
             init() {
 
                 // 初始化融云
-                var appkey = this.appkey;
+                var appkey = process.env.VUE_APP_RONGCLOUD_KEY;
                 var token = this.rongToken;
                 if (!appkey || !token) {
                     this.$dialog({
