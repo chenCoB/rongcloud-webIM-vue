@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1278123",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
